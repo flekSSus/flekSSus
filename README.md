@@ -1,3 +1,5 @@
+<img src="https://github.com/flekSSus/flekSSus/blob/main/Vladimir%20Rusak.png" alt="profile-banner"/>
+
 ## Hello and welcome, stranger 👋
 
 My name is Vladimir, i'm 
