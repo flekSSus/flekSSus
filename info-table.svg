@@ -8,19 +8,19 @@
 text, tspan {white-space: pre;}andrewandrew
 </style>
 
-<text x="370" y="30" fill="#c9d1d9">
-<tspan x="370" y="30">flekSSus</tspan>
-<tspan x="370" y="50">——————</tspan>
-<tspan x="370" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">GNU/Linux, iOS</tspan>
-<tspan x="370" y="90" class="keyColor">IDE</tspan>: <tspan class="valueColor">Vim , VSCode , QtCreator</tspan>
-<tspan x="370" y="130" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">C++, Java, C#</tspan>
-<tspan x="370" y="150" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Russian</tspan>
-<tspan x="370" y="200" class="keyColor">Edu</tspan>: <tspan class="valueColor">BSU</tspan><tspan class="commentColor">Minsk, Belarus</tspan>
-<tspan x="370" y="220" class="keyColor">Specialisation</tspan>: <tspan class="valueColor">Programmer. Applied mathematician</tspan><tspan class="commentColor"></tspan>
-<tspan x="370" y="240" class="keyColor">Contact</tspan>:
-<tspan x="370" y="260">——————</tspan>
-<tspan x="370" y="280" class="keyColor">Email</tspan>: <tspan class="valueColor">vrusak106@gmail.com</tspan>
-<tspan x="370" y="300" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">Vladimir Rusak</tspan>
+<text x="500" y="30" fill="#c9d1d9">
+<tspan x="500" y="30">flekSSus</tspan>
+<tspan x="500" y="50">——————</tspan>
+<tspan x="500" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">GNU/Linux, iOS</tspan>
+<tspan x="500" y="90" class="keyColor">IDE</tspan>: <tspan class="valueColor">Vim , VSCode , QtCreator</tspan>
+<tspan x="500" y="130" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">C++, Java, C#</tspan>
+<tspan x="500" y="150" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Russian</tspan>
+<tspan x="500" y="200" class="keyColor">Edu</tspan>: <tspan class="valueColor">BSU</tspan><tspan class="commentColor">Minsk, Belarus</tspan>
+<tspan x="500" y="220" class="keyColor">Specialisation</tspan>: <tspan class="valueColor">Programmer. Applied mathematician</tspan><tspan class="commentColor"></tspan>
+<tspan x="500" y="240" class="keyColor">Contact</tspan>:
+<tspan x="500" y="260">——————</tspan>
+<tspan x="500" y="280" class="keyColor">Email</tspan>: <tspan class="valueColor">vrusak106@gmail.com</tspan>
+<tspan x="500" y="300" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">Vladimir Rusak</tspan>
 </text>
 
 </svg>
