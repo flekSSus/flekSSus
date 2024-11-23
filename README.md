@@ -8,7 +8,8 @@
 
 My name is Vladimir, i'm 
 
-<a href="https://github.com/flekSSus/flekSSus">
+
+<a href="https://github.com/flekSSus/flekSSus" >
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/flekSSus/flekSSus/blob/main/info-table.svg">
     <img alt="Andrew Grant's GitHub Profile README" src="https://raw.githubusercontent.com/flekSSus/flekSSus/main/info-table.svg">
