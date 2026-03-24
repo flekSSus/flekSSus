@@ -5,23 +5,29 @@
 </a>
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=github,git,mysql,cpp,html,css,androidstudio,notion)](https://skillicons.dev)
-
 <div>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png" alt="Jira" title="Jira"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" alt="Swagger" title="Swagger"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/chai.png" alt="Chai" title="Chai"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/chai.png" 
+alt="Chai" title="Chai"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" alt="Android Studio" title="Android Studio"/></code>
+	<br>
+</br>
 </div>
 
+[![My Skills](https://skillicons.dev/icons?i=github,git,mysql,cpp,html,css,notion)](https://skillicons.dev)
 
 
-### My stats
+
+
+
+### Main stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flekSSus&hide=issues&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## What I do now
+### What I do now
 - **Mobile QA**: testing Android apps with **Charles Proxy** (SSL decryption, throttle, breakpoints) on emulators and real devices ![Charles Proxy](https://img.shields.io/badge/Charles_Proxy-000000?style=flat&logo=charles&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 - **API test automation**: building Postman collections with **Pre‑request/Post‑response** scripts, JSON schema validation, data‑driven flows, and running them via **Newman** in CI ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Newman](https://img.shields.io/badge/Newman-FF6C37?style=flat&logo=postman&logoColor=white)
 - **Swagger/OpenAPI**: analysing API specs and turning them into automated test suites ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=0b0b0b)
